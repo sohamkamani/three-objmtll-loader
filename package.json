@@ -1,6 +1,6 @@
 {
   "name": "three-objmtll-loader",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "My node module",
   "main": "dist/index.js",
   "scripts": {

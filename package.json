@@ -1,7 +1,7 @@
 {
   "name": "three-objmtll-loader",
-  "version": "1.0.0",
-  "description": "My node module",
+  "version": "1.0.1",
+  "description": "NodeJS wrapper for Three.js' OBJMTLLLoader function",
   "main": "dist/index.js",
   "scripts": {
     "test": "gulp test"

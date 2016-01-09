@@ -1,6 +1,6 @@
 # three-objmtll-loader [![Build Status](https://travis-ci.org/sohamkamani/three-objmtll-loader.svg?branch=master)](https://travis-ci.org/sohamkamani/three-objmtll-loader)
 
-> NodeJS wrapper for Three.js' OBJLoader function
+> NodeJS wrapper for Three.js' OBJMTLLLoader function
 
 By default, [Three.js](https://www.npmjs.com/package/three) does not have [OBJMTLLLoader](http://threejs.org/docs/#Reference/Loaders/OBJMTLLoader) built in. This is a NodeJS wrapper for the OBJLoader library so that it can be used with npm in systems using browserify, webpack, etc. All credit for the original code goes to mrdoob and angelxuanchang.
 
